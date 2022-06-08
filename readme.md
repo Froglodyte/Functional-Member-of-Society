@@ -10,10 +10,10 @@ This is a shitty **person** that can be a part of your community and be a great 
 - *Mark Zuckerberg*
 
 > "Stop quoting me, and remove all prior quotes, lest you want me to sue for defamation and/or fraud."
--*Mark Zuckerberg*
+- *Mark Zuckerberg*
 
 > "KYS"
--*Mark Zuckerberg*
+- *Mark Zuckerberg*
 
 # ***note:*** This bot is still in early alpha stages.
 
